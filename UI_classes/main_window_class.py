@@ -1,4 +1,4 @@
-from PyQt5.QtCore import QSize
+from PyQt5.QtCore import QSize, Qt
 from PyQt5.QtGui import QIcon, QPixmap, QColor
 from PyQt5.QtWidgets import QMainWindow, QGraphicsDropShadowEffect, QLabel, QSizePolicy, QVBoxLayout, QGridLayout, \
 	QHBoxLayout, QPushButton, QMessageBox
